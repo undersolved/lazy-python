@@ -9,3 +9,6 @@ print(type(pi))
 
 isDrunk = False
 print(type(isDrunk))
+
+something = None
+print(type(something))
